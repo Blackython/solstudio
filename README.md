@@ -1,0 +1,2 @@
+# solstudio
+solstudio test repository
